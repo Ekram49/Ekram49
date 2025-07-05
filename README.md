@@ -21,7 +21,7 @@ I enjoy working across disciplines and regularly explore data in areas like mari
 - **Also Exploring:** Aviation ✈ | Ocean Sustainability 🌊 | Battery Tech 🔋  
 - **Tech Stack:** Python | SQL | Jupyter | Tableau  
 - **Learning:** Data Science :zap: | Machine Learning :fire:   
-- **Fun Stuff:** Long-distance swimming 🏊 | Kettlebell workouts 🏋️ | e-bike & skateboard rides 🚴  
+- **Fun Stuff:** Long-distance swimming 🏊 | Kettlebell workouts 🏋️ | e-bike & e-skateboard rides 🚴  
 - **Organization:** Ekram49  
 
 ---
